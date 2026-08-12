@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -24,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
