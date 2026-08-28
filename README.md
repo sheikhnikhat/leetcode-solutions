@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sheikhnikhat/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
